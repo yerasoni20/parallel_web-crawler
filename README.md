@@ -1,5 +1,5 @@
 # Project: Parallel Web Crawler
-This is initially built legacy web crawler, single-threaded application. It's a bit slow, and to improve its performance, it needs to upgrade the code to take advantage of multi-core architectures to increase crawler throughput. Furthermore, it will measure the performance of your crawler to prove that, given the same amount of time, the multi-threaded implementation can visit more web pages than the legacy implementation. 
+This is initially built legacy web crawler, single-threaded application. It's a bit slow, and to improve its performance, it needs to upgrade the code to take advantage of multi-core architectures to increase crawler throughput and making it a multi-threaded application. Furthermore, it will measure the performance of your crawler to prove that, given the same amount of time, the multi-threaded implementation can visit more web pages than the legacy implementation. 
 
 It performs the following steps to achieve the throughput:-
 
